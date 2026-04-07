@@ -9,3 +9,5 @@ while a < 10:
     print("The number is less than 10.")
     a += 1
 
+for i in range(5):
+    print("This is iteration number", i)
