@@ -14,3 +14,8 @@ while a < 10:
 
 for i in range(5):
     print("This is iteration number", i)
+
+def number_square(num):
+    return num ** 2
+
+print("The square of 5 is", number_square(5))
