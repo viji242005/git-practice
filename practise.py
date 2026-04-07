@@ -19,3 +19,5 @@ def number_square(num):
     return num ** 2
 
 print("The square of 5 is", number_square(5))
+
+print("This is a simple program to try switch between commits.")
